@@ -1,4 +1,4 @@
-package org.example;
+package com.ding.toy;
 
 class Main {
 	public static void main(String[] args) {
